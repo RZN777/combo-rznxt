@@ -20,11 +20,11 @@ body{
     background-repeat: no-repeat;
     background-size: contain;
 }
- .conteiner{
+ .container{
      height: 100vh;
  }
 
- .containe_botao{
+ .container_botao{
      background-color: var(--botao-azul);
      border-radius: 5px;
      padding: 1em;
